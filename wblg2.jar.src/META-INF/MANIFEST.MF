@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.15
+Created-By: 1.8.0_91-b14 (Oracle Corporation)
+Main-Class: org.tbg.Main
+Class-Path: lib/dnsjava-2.0.6.jar lib/htmlparser_1.6.jar lib/swing-lay
+ out-1.0.3.jar
+
